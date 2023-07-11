@@ -1,6 +1,7 @@
 """
 To run the basic sql server using the command 'psql' will run the basic database
 
+psql -d {name} - Allows an instant connection to a specific database
 \q - quits the sql server. Taking us back to the reguler terminal
 \l - Shows all the databases avaliable 
 \c - connects the database '\c chinook' will connect to that database
